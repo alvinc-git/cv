@@ -137,4 +137,3 @@ I am a seasoned veteran in the delivery, implementation, and management of infra
 + [https://en.wikipedia.org/wiki/User:Alvincura]
 + [http://www.abouttheartists.com/artists/597393-alvin-cura]
 + [http://www.kofc-sjc.org]
->>>>>>> 1cb89dd4ad32cc50a71bec32d98e36b5eaed2918
