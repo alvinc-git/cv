@@ -131,6 +131,13 @@ I am a seasoned veteran in the delivery, implementation, and management of infra
 + Committee Chairperson (Robert's Rules of Order)
 + Documentation/Writer (pamphlets, worship aids, et al)
 
+#### Publications and Examples
++ Author, Appendix A, "AutoInstall Samples", Solaris Implementation, ©1995, SunSoft Press. https://www.amazon.com/Solaris-Implementation-Administrators-Slattery-1995-01-31/dp/B012YWVYQ0
++ Featured, "@ Large: The Strange Case of the World's Biggest Internet Invasion", ©1998, Touchstone.  https://www.amazon.com/At-Large-Strange-Internet-Invasion/dp/0684835584
++ Nominated, ComputerWorld Smithsonian Award, 1997, BayNetworks, Inc.  https://sirismm.si.edu/EADpdfs/NMAH.AC.0425.pdf
++ Contributor, Sun Hardware Reference Guide, 1995.  http://www.obsolyte.com/sunFAQ/faq_hardware/hwref5.html
++ Ported/Tested, RocketRaid 2310 DKMS module for Ubuntu, 2017.  https://launchpad.net/~alvinc/+archive/ubuntu/ppa
+
 #### Links
 + [https://www.linkedin.com/in/alvincura/]
 + [https://launchpad.net/~alvinc]
