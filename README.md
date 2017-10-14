@@ -42,7 +42,7 @@ I am a seasoned veteran in the delivery, implementation, and management of infra
 + Infrastructure Productivity Tools (eg. git, jenkins, ansible, JIRA, Confluence, Subversion, Perforce, Crucible, Puppet, mediawiki, et al)
 
 #### Professional Experience
-##### Senior Technical Contributer/Consultant
+##### Senior Technical Contributor/Consultant
 + Drove and implemented lightweight process frameworks for Change, Release, and Incident Management in fledgling organizations focused on SaaS and Cloud, geared toward later process maturity
 + Implemented and supported large-scale enterprise projects such as disaster recovery/BCP, high availability solutions, load balancing, data center/co-location relocation and retrofitting
 + Implemented and developed packaging and deployment infrastructures (eg. RedHat Packages/yum, Debian Packages/apt, Solaris Packages/Jumpstart, PXE/cobbler) to optimize
@@ -92,7 +92,7 @@ I am a seasoned veteran in the delivery, implementation, and management of infra
 | Sr. Systems Engineer                       | Booyah                 | Mar 2012 - Aug 2012 |
 | Sr. Systems Engr/Change Mgr (Consultant)   | SAP Labs               | Mar 2011 – Feb 2012 |
 | Sr. Systems Engineer, Infrastructure Lead  | YouSendIt              | Sep 2008 – Jan 2011 |
-| Independent Consultant                     | Self, Home Business    | Aug 2001 - Ongoing  |
+| Independent Consultant                     | Various                | Aug 2001 - Ongoing  |
 | Sr. Systems Engineer and Process Architect | Lyris, Inc.            | Aug 2007 – Sep 2008 |
 | Sr. Software Engineer                      | Macrovision Corp       | Jun 2006 – Jun 2007 |
 | Principal Systems Admin and Project Mgr   | Symantec Corporation   | Oct 2002 – May 2006 |
@@ -118,7 +118,6 @@ I am a seasoned veteran in the delivery, implementation, and management of infra
 | :------------------------- | :------------------------------------------------------- | :----------------- |
 | Ubuntu Linux               | Ubuntu BugSquad, California Team, REVU Uploaders, et al  | Sep 2006 - Present |
 | Wikipedia    | Contributor, Editor, Reviewer                                          | Aug 2006 - Present |
-| Usenix/SAGE  | Member                                                                 | 1995               |
 | Competition Karaoke Singer | Talent Quest National: Semi-Fin 2002,2005;Qual 2003,2004 | 2002 - 2006        |
 | Lay Ministry               | St. Joseph Parish, Mountain View; Diocese of San Jose    | 2008 - Present     |
 | Knights of Columbus        | Chapter President: 2017, GK: 2013-2017, FN: 2017         | 2010 - Present     |
