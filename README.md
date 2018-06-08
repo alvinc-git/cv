@@ -88,7 +88,8 @@ I am a seasoned veteran in the delivery, implementation, and management of infra
 #### History
 | Role                                       | Organization           | Dates               |
 | :----------------------------------------- | :--------------------- | :------------------ |
-| Sr. Systems Engineer                       | NinthDecimal           | Oct 2012 - Present |
+| Manager of IT Infrastructure               | LCI, Inc.              | Dec 2017 - Present  |
+| Sr. Systems Engineer                       | NinthDecimal           | Oct 2012 - Oct 2017 |
 | Sr. Systems Engineer                       | Booyah                 | Mar 2012 - Aug 2012 |
 | Sr. Systems Engr/Change Mgr (Consultant)   | SAP Labs               | Mar 2011 – Feb 2012 |
 | Sr. Systems Engineer, Infrastructure Lead  | YouSendIt              | Sep 2008 – Jan 2011 |
