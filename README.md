@@ -88,7 +88,8 @@ I am a seasoned veteran in the delivery, implementation, and management of infra
 #### History
 | Role                                       | Organization           | Dates               |
 | :----------------------------------------- | :--------------------- | :------------------ |
-| Manager of IT Infrastructure               | LCI, Inc.              | Dec 2017 - Present  |
+| Sr. Systems Engineer                       | Arcserve, LLC          | Sep 2018 - Present  |
+| Manager of IT Infrastructure               | LCI, Inc.              | Dec 2017 - Sep 2018 |
 | Sr. Systems Engineer                       | NinthDecimal           | Oct 2012 - Oct 2017 |
 | Sr. Systems Engineer                       | Booyah                 | Mar 2012 - Aug 2012 |
 | Sr. Systems Engr/Change Mgr (Consultant)   | SAP Labs               | Mar 2011 – Feb 2012 |
@@ -96,7 +97,7 @@ I am a seasoned veteran in the delivery, implementation, and management of infra
 | Independent Consultant                     | Various                | Aug 2001 - Ongoing  |
 | Sr. Systems Engineer and Process Architect | Lyris, Inc.            | Aug 2007 – Sep 2008 |
 | Sr. Software Engineer                      | Macrovision Corp       | Jun 2006 – Jun 2007 |
-| Principal Systems Admin and Project Mgr   | Symantec Corporation   | Oct 2002 – May 2006 |
+| Principal Systems Admin and Project Mgr    | Symantec Corporation   | Oct 2002 – May 2006 |
 | Senior Consultant                          | Ventana Technology     | Oct 2000 – Sep 2001 |
 | Mgr, Operations and Production Systems     | Engage&#124;AdKnowledge     | Nov 1998 – Oct 2000 |
 | Mgr, IT/Operations Systems Architect       | BayNetworks, Inc.      | Aug 1995 – Dec 1998 |
