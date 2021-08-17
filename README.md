@@ -135,7 +135,7 @@ I am a seasoned veteran in the delivery, implementation, and management of infra
 + Videography (livestream and post-edit; camera operator/DP, recreational drone pilot)
 + Sound Reinforcement/Audio (recording and live venue)
 + FCC ZR (GMRS) and radio ettiquette (NATO alphabet, et al)
-+ Firearm Safety Certificate
++ Firearm Safety Certificate (CA DOJ through 06/2026)
 + Small Boat Sailor (Certified, US Sailing)
 
 #### Publications and Examples
