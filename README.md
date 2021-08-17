@@ -124,6 +124,7 @@ I am a seasoned veteran in the delivery, implementation, and management of infra
 | Lay Ministry               | St. Joseph Parish, Mountain View; Diocese of San Jose    | 2008 - Present     |
 | Knights of Columbus        | Chapter President: 2017, GK: 2013-2017, FN: 2017         | 2010 - Present     |
 | Tournament Official        | Northern California Golf Association                     | 2012 - Present     |
+| Videographer               | St. Joseph Parish, Mountain View; Diocese of San Jose    | 2020 - Present     |
 
 #### Other Skills
 + Public Speaking
@@ -131,6 +132,11 @@ I am a seasoned veteran in the delivery, implementation, and management of infra
 + Performance/Entertainment (theatre, concerts, et al)
 + Committee Chairperson (Robert's Rules of Order)
 + Documentation/Writer (pamphlets, worship aids, et al)
++ Videography (livestream and post-edit; camera operator/DP, recreational drone pilot)
++ Sound Reinforcement/Audio (recording and live venue)
++ FCC ZR (GMRS) and radio ettiquette (NATO alphabet, et al)
++ Firearm Safety Certificate
++ Small Boat Sailor (Certified, US Sailing)
 
 #### Publications and Examples
 + Author, Appendix A, "AutoInstall Samples", Solaris Implementation, ©1995, SunSoft Press. https://www.amazon.com/Solaris-Implementation-Administrators-Slattery-1995-01-31/dp/B012YWVYQ0
