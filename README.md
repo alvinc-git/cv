@@ -43,6 +43,7 @@ I am a seasoned veteran in the delivery, implementation, and management of infra
 
 #### Professional Experience
 ##### Senior Technical Contributor/Consultant
++ Drove and implemented and supported scale deployments of Ubuntu Linux using MaaS with Ansible playbooks
 + Drove and implemented lightweight process frameworks for Change, Release, and Incident Management in fledgling organizations focused on SaaS and Cloud, geared toward later process maturity
 + Implemented and supported large-scale enterprise projects such as disaster recovery/BCP, high availability solutions, load balancing, data center/co-location relocation and retrofitting
 + Implemented and developed packaging and deployment infrastructures (eg. RedHat Packages/yum, Debian Packages/apt, Solaris Packages/Jumpstart, PXE/cobbler) to optimize
@@ -88,7 +89,8 @@ I am a seasoned veteran in the delivery, implementation, and management of infra
 #### History
 | Role                                       | Organization           | Dates               |
 | :----------------------------------------- | :--------------------- | :------------------ |
-| Sr. Systems Engineer                       | Arcserve, LLC          | Sep 2018 - Present  |
+| Sr. Systems Administrator                  | Skydio, Inc.           | Nov 2021 - Present  |
+| Sr. Systems Engineer                       | Arcserve, LLC          | Sep 2018 - Nov 2021 |
 | Manager of IT Infrastructure               | LCI, Inc.              | Dec 2017 - Sep 2018 |
 | Sr. Systems Engineer                       | NinthDecimal           | Oct 2012 - Oct 2017 |
 | Sr. Systems Engineer                       | Booyah                 | Mar 2012 - Aug 2012 |
@@ -125,6 +127,7 @@ I am a seasoned veteran in the delivery, implementation, and management of infra
 | Knights of Columbus        | Chapter President: 2017, GK: 2013-2017, FN: 2017         | 2010 - Present     |
 | Tournament Official        | Northern California Golf Association                     | 2012 - Present     |
 | Videographer               | St. Joseph Parish, Mountain View; Diocese of San Jose    | 2020 - Present     |
+| Auxiliarist                | United States Coast Guard Auxiliary                      | 2021 - Present     |
 
 #### Other Skills
 + Public Speaking
@@ -137,6 +140,7 @@ I am a seasoned veteran in the delivery, implementation, and management of infra
 + FCC ZR (GMRS) and radio ettiquette (NATO alphabet, et al)
 + Firearm Safety Certificate (CA DOJ through 06/2026)
 + Small Boat Sailor (Certified, US Sailing)
++ Boating Skills and Seamanship (US Coast Guard Auxiliary)
 
 #### Publications and Examples
 + Author, Appendix A, "AutoInstall Samples", Solaris Implementation, ©1995, SunSoft Press. https://www.amazon.com/Solaris-Implementation-Administrators-Slattery-1995-01-31/dp/B012YWVYQ0
@@ -150,4 +154,3 @@ I am a seasoned veteran in the delivery, implementation, and management of infra
 + [https://launchpad.net/~alvinc]
 + [https://en.wikipedia.org/wiki/User:Alvincura]
 + [http://www.abouttheartists.com/artists/597393-alvin-cura]
-+ [http://www.kofc-sjc.org]
