@@ -3,7 +3,7 @@
 `Mountain View, CA   94040-0251`<BR>
 `Mobile +1.650.200.3117`<BR>
 `cura.uscgaux@gmail.com`<BR>
- linkedin.com/in/alvincura
+`[linkedin.com/in/alvincura]`
 
 #### Overview
 Available via AUXDIR/AUXDATA II
