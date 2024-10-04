@@ -49,7 +49,7 @@ Available via AUXDIR/AUXDATA II
 + District 11 Retrospective, December 28, 2022. [https://youtu.be/iuTJrCLJl9I]
 
 
-##### Technical Skills
+#### Technical Skills
 + Sr. Systems Engineer with Project and Staff Management experience (see linkedin or [https://github.com/alvinc-git/cv])
 + NLE:  Blackmagic Design Davinci Resolve
 + Image Editing: GNU Image Manipulation Program (gimp)
