@@ -8,11 +8,11 @@
 #### Overview
 Available via AUXDIR/AUXDATA II
 
-#### Summary
-I am a seasoned veteran in the delivery, implementation, and management of infrastructure and technologies. As the industry has evolved, so have my points of focus: hardware, software, networks, systems, on-prem, cloud, propietary, open source, and others.  I am seeking an impact role with heavy emphasis on strategic planning and execution of tasks and projects in implementing and supporting technologies, and close synergistic working relationships with colleagues. Great people form great teams, and I'd like to join one.  Our work is already fun and interesting, but it can also be deeply rewarding.
-
 #### Qualifications
 Available via AUXDIR/AUXDATA II
++ AUXMU1
++ AUXPV
++ AUXAIR Air Observer (Trainee)
 
 #### BIO
 + Eye Color: Brown
