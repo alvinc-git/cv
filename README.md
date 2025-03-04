@@ -5,19 +5,19 @@
 `alvin.cura@gmail.com`<BR>
 
 #### Overview
-In a dynamic technology landscape, there is a sweet spot in implementation, deployment, and operations which constantly needs to be found.  Although models, implementations, and paradigms evolve and grow, there is still a perspective and approach to technology which allows groups to leverage technology to accomplish that group's goals.  I look for that sweet spot, and work to deliver that to the group I'm working with.
+In a dynamic technology landscape, there is a sweet spot in implementation, deployment, and operations which constantly needs to be found.  And that doesn't even include constantly finding balance and creating value among people and teams.  Although models, implementations, and paradigms evolve and grow, there is still a perspective and approach to technology which allows groups to leverage technology to accomplish that group's goals.  I look for that sweet spot, and work to deliver that to the group I'm working with.
 
 #### Summary
-I am a seasoned veteran in the delivery, implementation, and management of infrastructure and technologies. As the industry has evolved, so have my points of focus: hardware, software, networks, systems, on-prem, cloud, propietary, open source, and others.  I am seeking an impact role with heavy emphasis on strategic planning and execution of tasks and projects in implementing and supporting technologies, and close synergistic working relationships with colleagues. Great people form great teams, and I'd like to join one.  Our work is already fun and interesting, but it can also be deeply rewarding.
+I am a seasoned veteran in the delivery, implementation, and management of infrastructure and technologies. As the industry has evolved, so have my points of focus: hardware, software, networks, systems, on-prem, cloud, propietary, open source, and others.  My toolbox has a lot of tools in it, and I enjoy using any and all of them.  I am seeking an impact role with heavy emphasis on strategic planning and execution of tasks and projects in implementing and supporting technologies, and close synergistic working relationships with colleagues. Great people form great teams, and I'd like to join one.  Our work is already fun and interesting, but it can also be deeply rewarding.
 
 #### Qualifications
 + Senior-level technical expertise in Unix-based operating platforms
-+ Broad software familiarity (DB, App, Infrastructure, et al)
-+ Broad hardware familiarity (Wintel, Sun, Networking, SAN)
++ Broad software familiarity (Automation, DB, App, Infrastructure, et al)
++ Broad hardware familiarity (servers, desktops, network, and storage)
 + Extensive experience in project planning, flow, and risk mitigation
 + ITIL v3 Foundation Certified
-+ Highly process oriented, broad experience in developing procedures
-+ Team player work ethic, strong emphasis on mentorship, documentation, and sharing
++ Highly process oriented, broad experience in developing procedures and automation (currently prefer YML for automation tools)
++ Team player work ethic, strong emphasis on mentorship, documentation, and bringing people up
 + Collaborative approach, working to eliminate tribal knowledge
 + Experience in both Operations and Engineering groups, and able to focus on the specific needs of each
 + Highly adaptive to new technologies and processes
@@ -26,24 +26,26 @@ I am a seasoned veteran in the delivery, implementation, and management of infra
 #### Technology Familiarity (condensed)
 + RedHat/Fedora/CentOS Linux
 + Debian/Ubuntu Linux
-+ Xen/Oracle VM/Docker Containers
++ Arch Linux
++ Virtualization and Containerization (QEMU/LXD/Xen/Oracle VM/Docker)
 + Sun Solaris
-+ MySQL, PostgreSQL, Oracle, Hive
-+ nginx, Cherokee, Apache
++ MySQL/MariaDB, PostgreSQL, Oracle, Hive
++ nginx and apache2
 + Citrix, F5 Tech, Alteon, CoyotePoint et al
 + Cisco IOS, ASA, Dell PowerConnect, Force10
 + Sun SPARC
 + MS Windows Family
 + Application tiers and components: message buses/brokers, mapr/hadoop, et al
-+ System programming languages: C, shell, et al
-+ Application languages: java, ruby, python, et al
-+ Abstracted scripting languages: yml, groovy, lua, et al
-+ Infrastructure Services and Protocols (eg. NFS, iscsi, RPC, DNS, Sendmail, et al)
-+ Infrastructure Productivity Tools (eg. git, jenkins, ansible, JIRA, Confluence, Subversion, Perforce, Crucible, Puppet, mediawiki, et al)
++ System programming languages (support and develop): C, shell
++ Application languages (support): java, ruby, python, et al
++ Abstracted scripting languages: yml (eg. ansible and terraform), groovy, lua, et al
++ Infrastructure Services and Protocols (eg. NFS, iscsi, CIFS, RPC, DHCP, KEA, DNS, Sendmail, et al)
++ Infrastructure Productivity Tools (eg. git, jenkins, ansible, terraform, JIRA, Confluence, Perforce, Crucible, Puppet, mediawiki, et al)
++ Monitoring and Metrics (zabbix, nagios, et al)
 
 #### Professional Experience
 ##### Senior Technical Contributor/Consultant
-+ Drove and implemented and supported scale deployments of Ubuntu Linux using MaaS with Ansible playbooks
++ Drove and implemented and supported scale deployments of Ubuntu Linux using MaaS with Ansible playbooks, executed through Jenkins pipelines
 + Drove and implemented lightweight process frameworks for Change, Release, and Incident Management in fledgling organizations focused on SaaS and Cloud, geared toward later process maturity
 + Implemented and supported large-scale enterprise projects such as disaster recovery/BCP, high availability solutions, load balancing, data center/co-location relocation and retrofitting
 + Implemented and developed packaging and deployment infrastructures (eg. RedHat Packages/yum, Debian Packages/apt, Solaris Packages/Jumpstart, PXE/cobbler) to optimize
