@@ -14,6 +14,7 @@ I am a seasoned veteran in the delivery, implementation, and management of infra
 + Senior-level technical expertise in Unix-based operating platforms
 + Broad software familiarity (Automation, DB, App, Infrastructure, et al)
 + Broad hardware familiarity (servers, desktops, network, and storage)
++ Cloud familiarity (private clouds via virtualization and containers, public eg. AWS, Linode/Akamai)
 + Extensive experience in project planning, flow, and risk mitigation
 + ITIL v3 Foundation Certified
 + Highly process oriented, broad experience in developing procedures and automation (currently prefer YML for automation tools)
