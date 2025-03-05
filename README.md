@@ -33,7 +33,7 @@ I am a seasoned veteran in the delivery, implementation, and management of infra
 + MySQL/MariaDB, PostgreSQL, Oracle, Hive
 + nginx and apache2
 + Citrix, F5 Tech, Alteon, CoyotePoint et al
-+ Cisco IOS, ASA, Dell PowerConnect, Force10
++ Cisco IOS, ASA, Dell PowerConnect, Force10, Juniper JunOS
 + Sun SPARC
 + MS Windows Family
 + Application tiers and components: message buses/brokers, mapr/hadoop, et al
@@ -46,7 +46,7 @@ I am a seasoned veteran in the delivery, implementation, and management of infra
 
 #### Professional Experience
 ##### Senior Technical Contributor/Consultant
-+ Drove and implemented and supported scale deployments of Ubuntu Linux using MaaS with Ansible playbooks, executed through Jenkins pipelines
++ Drove and implemented and supported scale deployments of Ubuntu Linux using Canonical MaaS with Ansible playbooks, executed through Jenkins pipelines
 + Drove and implemented lightweight process frameworks for Change, Release, and Incident Management in fledgling organizations focused on SaaS and Cloud, geared toward later process maturity
 + Implemented and supported large-scale enterprise projects such as disaster recovery/BCP, high availability solutions, load balancing, data center/co-location relocation and retrofitting
 + Implemented and developed packaging and deployment infrastructures (eg. RedHat Packages/yum, Debian Packages/apt, Solaris Packages/Jumpstart, PXE/cobbler) to optimize
