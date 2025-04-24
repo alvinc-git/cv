@@ -124,11 +124,11 @@ I am a seasoned veteran in the delivery, implementation, and management of infra
 | Activity                   | Details                                                  | Date               |
 | :------------------------- | :------------------------------------------------------- | :----------------- |
 | Ubuntu Linux               | Ubuntu BugSquad, California Team, REVU Uploaders, et al  | Sep 2006 - Present |
-| Wikipedia    | Contributor, Editor, Reviewer                                          | Aug 2006 - Present |
+| Wikipedia                  | Contributor, Editor, Reviewer                            | Aug 2006 - Present |
 | Competition Karaoke Singer | Talent Quest National: Semi-Fin 2002,2005;Qual 2003,2004 | 2002 - 2006        |
 | Lay Ministry               | St. Joseph Parish, Mountain View; Diocese of San Jose    | 2008 - Present     |
-| Knights of Columbus        | Chapter President: 2017, GK: 2013-2017, FN: 2017         | 2010 - Present     |
-| Tournament Official        | Northern California Golf Association                     | 2012 - Present     |
+| Knights of Columbus        | Chapter President 2017, GK 2013-2021, FN: 2017-2018      | 2010 - Present     |
+| Tournament Official        | Northern California Golf Association                     | 2012 - 2017        |
 | Videographer               | St. Joseph Parish, Mountain View; Diocese of San Jose    | 2020 - Present     |
 | Auxiliarist                | United States Coast Guard Auxiliary                      | 2021 - Present     |
 
