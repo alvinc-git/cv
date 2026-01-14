@@ -92,7 +92,8 @@ I am a seasoned veteran in the delivery, implementation, and management of infra
 #### History
 | Role                                       | Organization           | Dates               |
 | :----------------------------------------- | :--------------------- | :------------------ |
-| Sr. Systems Administrator                  | Skydio, Inc.           | Nov 2021 - Present  |
+| Consultant                                 | Independent            | Jul 2025 - Present  |
+| Sr. Systems Administrator                  | Skydio, Inc.           | Nov 2021 - Mar 2025 |
 | Sr. Systems Engineer                       | Arcserve, LLC          | Sep 2018 - Nov 2021 |
 | Manager of IT Infrastructure               | LCI, Inc.              | Dec 2017 - Sep 2018 |
 | Sr. Systems Engineer                       | NinthDecimal           | Oct 2012 - Oct 2017 |
